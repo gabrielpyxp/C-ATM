@@ -1,1 +1,9 @@
-[]
+
+[
+    {
+        "id": "D1",
+        "tipo": "deposito",
+        "valor": 100,
+        "saldo_resultante": 1100.00
+    }
+]
