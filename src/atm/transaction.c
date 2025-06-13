@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "cJSON.h"
-
+// FEITO POR GABRIEL DE ALMEIDA
 #define ID_CONTA "D1"
 
 double carregarSaldo(const char* id_conta) {
